@@ -1,1 +1,37 @@
-<p>resident-form works!</p>
+<div class="form-container">
+  <div class="form-header">
+    <h3>Register New Resident</h3>
+    <p>Enter student details to assign a room</p>
+  </div>
+
+  <form class="student-form">
+    <div class="form-group">
+      <label for="fullName">Full Name</label>
+      <input type="text" id="fullName" placeholder="e.g. Muhammad Ali" autocomplete="off">
+    </div>
+
+    <div class="form-row">
+      <div class="form-group">
+        <label for="cnic">CNIC / Roll No</label>
+        <input type="text" id="cnic" placeholder="e.g. 42101-XXXXXXX-X" autocomplete="off">
+      </div>
+      <div class="form-group">
+        <label for="room">Assign Room</label>
+        <input type="text" id="room" placeholder="e.g. Room 105" autocomplete="off">
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group">
+        <label for="phone">Phone Number</label>
+        <input type="tel" id="phone" placeholder="e.g. +92 300 1234567" autocomplete="off">
+      </div>
+      <div class="form-group">
+        <label for="emergency">Emergency Contact</label>
+        <input type="tel" id="emergency" placeholder="e.g. Parent/Guardian number" autocomplete="off">
+      </div>
+    </div>
+
+    <button type="button" class="btn-submit">Save Student Record</button>
+  </form>
+</div>
