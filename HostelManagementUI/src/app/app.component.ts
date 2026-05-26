@@ -1,11 +1,11 @@
 import { Component } from '@angular/core';
-import { ResidentListComponent } from './resident-list/resident-list';
 import { ResidentFormComponent } from './resident-form/resident-form';
+import { ResidentListComponent } from './resident-list/resident-list';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [ResidentListComponent, ResidentFormComponent],
+  imports: [ResidentFormComponent, ResidentListComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })

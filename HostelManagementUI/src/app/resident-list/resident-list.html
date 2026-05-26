@@ -1,32 +1,34 @@
-<div class="container">
-  <div class="header-section">
+<div class="directory-container">
+  <div class="directory-header">
     <h2>Hostel Resident Directory</h2>
     <p>Manage and track all registered hostel students</p>
   </div>
 
-  <table class="resident-table">
-    <thead>
-      <tr>
-        <th>Full Name</th>
-        <th>CNIC / Roll No</th>
-        <th>Phone Number</th>
-        <th>Room Assigned</th>
-        <th>Emergency Contact</th>
-        <th>Actions</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Musa Ghori</td>
-        <td>2509999</td>
-        <td>+92 300 1234567</td>
-        <td>Room 102</td>
-        <td>+92 321 7654321</td>
-        <td>
-          <button class="btn btn-edit">Edit</button>
-          <button class="btn btn-delete">Delete</button>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <div class="table-responsive">
+    <table class="resident-table">
+      <thead>
+        <tr>
+          <th>Full Name</th>
+          <th>CNIC / Roll No</th>
+          <th>Phone Number</th>
+          <th>Room Assigned</th>
+          <th>Emergency Contact</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let resident of residents">
+          <td>{{ resident.fullName }}</td>
+          <td>{{ resident.cnic }}</td>
+          <td>{{ resident.phoneNumber }}</td>
+          <td>{{ resident.roomAssigned }}</td>
+          <td>{{ resident.emergencyContact }}</td>
+          <td>
+            <button class="btn-edit" (click)="onEdit(resident)">Edit</button>
+            <button class="btn-delete" (click)="onDelete(resident.cnic)">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </div>
