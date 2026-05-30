@@ -1,0 +1,15 @@
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\bin\Debug\net9.0\HostelManagementSystem.Application.deps.json
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\bin\Debug\net9.0\HostelManagementSystem.Application.dll
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\bin\Debug\net9.0\HostelManagementSystem.Application.pdb
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\bin\Debug\net9.0\HostelManagementSystem.Domain.dll
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\bin\Debug\net9.0\HostelManagementSystem.Domain.pdb
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\obj\Debug\net9.0\HostelManagementSystem.Application.csproj.AssemblyReference.cache
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\obj\Debug\net9.0\HostelManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\obj\Debug\net9.0\HostelManagementSystem.Application.AssemblyInfoInputs.cache
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\obj\Debug\net9.0\HostelManagementSystem.Application.AssemblyInfo.cs
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\obj\Debug\net9.0\HostelManagementSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\obj\Debug\net9.0\HostelMa.5C483BDF.Up2Date
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\obj\Debug\net9.0\HostelManagementSystem.Application.dll
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\obj\Debug\net9.0\refint\HostelManagementSystem.Application.dll
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\obj\Debug\net9.0\HostelManagementSystem.Application.pdb
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Application\obj\Debug\net9.0\ref\HostelManagementSystem.Application.dll

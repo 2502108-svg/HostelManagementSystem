@@ -1,0 +1,17 @@
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\bin\Debug\net9.0\HostelManagementSystem.Infrastructure.deps.json
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\bin\Debug\net9.0\HostelManagementSystem.Infrastructure.dll
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\bin\Debug\net9.0\HostelManagementSystem.Infrastructure.pdb
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\bin\Debug\net9.0\HostelManagementSystem.Application.dll
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\bin\Debug\net9.0\HostelManagementSystem.Domain.dll
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\bin\Debug\net9.0\HostelManagementSystem.Application.pdb
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\bin\Debug\net9.0\HostelManagementSystem.Domain.pdb
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\obj\Debug\net9.0\HostelManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\obj\Debug\net9.0\HostelManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\obj\Debug\net9.0\HostelManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\obj\Debug\net9.0\HostelManagementSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\obj\Debug\net9.0\HostelManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\obj\Debug\net9.0\HostelMa.D94C649D.Up2Date
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\obj\Debug\net9.0\HostelManagementSystem.Infrastructure.dll
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\obj\Debug\net9.0\refint\HostelManagementSystem.Infrastructure.dll
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\obj\Debug\net9.0\HostelManagementSystem.Infrastructure.pdb
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Infrastructure\obj\Debug\net9.0\ref\HostelManagementSystem.Infrastructure.dll

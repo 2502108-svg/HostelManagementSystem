@@ -1,0 +1,11 @@
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Domain\bin\Debug\net9.0\HostelManagementSystem.Domain.deps.json
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Domain\bin\Debug\net9.0\HostelManagementSystem.Domain.dll
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Domain\bin\Debug\net9.0\HostelManagementSystem.Domain.pdb
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Domain\obj\Debug\net9.0\HostelManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Domain\obj\Debug\net9.0\HostelManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Domain\obj\Debug\net9.0\HostelManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Domain\obj\Debug\net9.0\HostelManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Domain\obj\Debug\net9.0\HostelManagementSystem.Domain.dll
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Domain\obj\Debug\net9.0\refint\HostelManagementSystem.Domain.dll
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Domain\obj\Debug\net9.0\HostelManagementSystem.Domain.pdb
+C:\Users\Wajahat\Desktop\Wajahat Main\HostelManagementSystem.Domain\obj\Debug\net9.0\ref\HostelManagementSystem.Domain.dll

@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.API\\HostelManagementSystem.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.API\\HostelManagementSystem.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.API\\HostelManagementSystem.API.csproj",
+        "projectName": "HostelManagementSystem.API",
+        "projectPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.API\\HostelManagementSystem.API.csproj",
+        "packagesPath": "C:\\Users\\Wajahat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wajahat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Application\\HostelManagementSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Application\\HostelManagementSystem.Application.csproj"
+              },
+              "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Infrastructure\\HostelManagementSystem.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Infrastructure\\HostelManagementSystem.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Application\\HostelManagementSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Application\\HostelManagementSystem.Application.csproj",
+        "projectName": "HostelManagementSystem.Application",
+        "projectPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Application\\HostelManagementSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\Wajahat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wajahat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Domain\\HostelManagementSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Domain\\HostelManagementSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Domain\\HostelManagementSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Domain\\HostelManagementSystem.Domain.csproj",
+        "projectName": "HostelManagementSystem.Domain",
+        "projectPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Domain\\HostelManagementSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\Wajahat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wajahat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Infrastructure\\HostelManagementSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Infrastructure\\HostelManagementSystem.Infrastructure.csproj",
+        "projectName": "HostelManagementSystem.Infrastructure",
+        "projectPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Infrastructure\\HostelManagementSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Wajahat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wajahat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Application\\HostelManagementSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Application\\HostelManagementSystem.Application.csproj"
+              },
+              "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Domain\\HostelManagementSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\Wajahat\\Desktop\\Wajahat Main\\HostelManagementSystem.Domain\\HostelManagementSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
